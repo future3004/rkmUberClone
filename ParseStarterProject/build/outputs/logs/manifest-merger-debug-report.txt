@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:9:1-55:12
+	package
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\richa\.android\build-cache\b3aa3283ea40dfc831740249251e15a34332d3fc\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\richa\.android\build-cache\b3aa3283ea40dfc831740249251e15a34332d3fc\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:14:22-76
+application
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:16:5-53:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richa\.android\build-cache\1f51712967b0413f9eb0a71c9515fe803aa2aa4f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\richa\.android\build-cache\e27d58752c05eb3977a406b7690bf7863b1961b7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\richa\.android\build-cache\8d2a780e4e1019fc318b1da876db58fd39f13c10\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\richa\.android\build-cache\b3aa3283ea40dfc831740249251e15a34332d3fc\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\richa\.android\build-cache\37217c8820421b77765b47398063f7931f8b9f0e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\richa\.android\build-cache\bae4914fc3dffc134b2353ef3a8a294142382bfb\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\richa\.android\build-cache\ac571e60e6978c083a5eae031295057bc8e09959\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\richa\.android\build-cache\2b217f22c23f101431f8626cce45f80ce633aafe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\richa\.android\build-cache\9a1fff1c7bcfc16ff19beba84b2f373ef2be174f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\richa\.android\build-cache\1a999c1b14c92b6a3e65e64fb59295f6c0469fe6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\richa\.android\build-cache\ada4e0776474322c2e9fe4594d3b02aee0e5bf56\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\richa\.android\build-cache\b186d5e887a30260aeaa0ad26f0497b7714bd760\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\richa\.android\build-cache\b1e31e82c3a4861b0e3073fae755913620134e61\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
+activity#com.parse.starter.MainActivity
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:9-48:55
+	android:value
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:13-52
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:47:13-58
+activity#com.parse.starter.RiderMapActivity
+ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:50:9-52:73
+	android:label
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:52:13-61
+	android:name
+		ADDED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml:51:13-45
+uses-sdk
+INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richa\.android\build-cache\1f51712967b0413f9eb0a71c9515fe803aa2aa4f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\richa\.android\build-cache\e27d58752c05eb3977a406b7690bf7863b1961b7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\richa\.android\build-cache\8d2a780e4e1019fc318b1da876db58fd39f13c10\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\richa\.android\build-cache\b3aa3283ea40dfc831740249251e15a34332d3fc\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\richa\.android\build-cache\37217c8820421b77765b47398063f7931f8b9f0e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\richa\.android\build-cache\bae4914fc3dffc134b2353ef3a8a294142382bfb\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\richa\.android\build-cache\ac571e60e6978c083a5eae031295057bc8e09959\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\richa\.android\build-cache\2b217f22c23f101431f8626cce45f80ce633aafe\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\richa\.android\build-cache\9a1fff1c7bcfc16ff19beba84b2f373ef2be174f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\richa\.android\build-cache\1a999c1b14c92b6a3e65e64fb59295f6c0469fe6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\richa\.android\build-cache\ada4e0776474322c2e9fe4594d3b02aee0e5bf56\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\richa\.android\build-cache\b186d5e887a30260aeaa0ad26f0497b7714bd760\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\richa\.android\build-cache\b1e31e82c3a4861b0e3073fae755913620134e61\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richa\.android\build-cache\1f51712967b0413f9eb0a71c9515fe803aa2aa4f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\richa\workspace\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richa\.android\build-cache\1f51712967b0413f9eb0a71c9515fe803aa2aa4f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\richa\.android\build-cache\e27d58752c05eb3977a406b7690bf7863b1961b7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\richa\.android\build-cache\8d2a780e4e1019fc318b1da876db58fd39f13c10\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\richa\.android\build-cache\2b217f22c23f101431f8626cce45f80ce633aafe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\richa\.android\build-cache\9a1fff1c7bcfc16ff19beba84b2f373ef2be174f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\richa\.android\build-cache\1a999c1b14c92b6a3e65e64fb59295f6c0469fe6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\richa\.android\build-cache\ada4e0776474322c2e9fe4594d3b02aee0e5bf56\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\richa\.android\build-cache\b186d5e887a30260aeaa0ad26f0497b7714bd760\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\richa\.android\build-cache\b1e31e82c3a4861b0e3073fae755913620134e61\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richa\.android\build-cache\1f51712967b0413f9eb0a71c9515fe803aa2aa4f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\richa\.android\build-cache\1f51712967b0413f9eb0a71c9515fe803aa2aa4f\output\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\richa\.android\build-cache\b3aa3283ea40dfc831740249251e15a34332d3fc\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\richa\.android\build-cache\b3aa3283ea40dfc831740249251e15a34332d3fc\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\richa\.android\build-cache\b3aa3283ea40dfc831740249251e15a34332d3fc\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\richa\.android\build-cache\37217c8820421b77765b47398063f7931f8b9f0e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\richa\.android\build-cache\37217c8820421b77765b47398063f7931f8b9f0e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\richa\.android\build-cache\37217c8820421b77765b47398063f7931f8b9f0e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\richa\.android\build-cache\37217c8820421b77765b47398063f7931f8b9f0e\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\richa\.android\build-cache\ac571e60e6978c083a5eae031295057bc8e09959\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\richa\.android\build-cache\ac571e60e6978c083a5eae031295057bc8e09959\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\richa\.android\build-cache\ac571e60e6978c083a5eae031295057bc8e09959\output\AndroidManifest.xml:20:20-65
